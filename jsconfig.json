@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./src",
+    "paths": {
+      "@home/*": ["./modules/home/*"],
+      "@room/*": ["./modules/room/*"],
+      "@/*": ["./*"]
+    }
+  }
+}
